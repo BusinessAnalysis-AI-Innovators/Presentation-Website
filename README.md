@@ -13,5 +13,4 @@ Welcome to the BusinessAnalysis-AI-Innovators Presentation Website! This website
 Our presentation website includes the following features:
 
 - **Project Showcase**: Explore our latest projects and case studies.
-- **Insights**: Stay up-to-date with the latest trends and insights in the AI and business analysis space.
 - **Team**: Meet the talented individuals behind BusinessAnalysis-AI-Innovators.
